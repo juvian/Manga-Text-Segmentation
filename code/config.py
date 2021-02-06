@@ -1,0 +1,13 @@
+EXPERIMENTS_PATH = "/data/anime2/experiments"
+MANGA109_PATH = "/data/anime"
+MASKS_PATH = "/data/anime2/manga"
+YU45020_PATH = '/data/anime2/yu45020'
+SICKZIL_PATH = '/data/anime2/sickzil'
+DANBOORU_PATH = '/data/anime2/danbooru2019/512px'
+CRAFT_PATH = '/data/anime2/craft/predictions'
+ICDAR2013_WEB_PATH = '/data/anime2/icdar2013-web'
+ICDAR2013_SCENE_PATH = '/data/anime2/icdar2013-scene'
+TOTAL_TEXT_PATH = '/data/anime2/total-text'
+DIBCO_PATH = '/data/anime2/dibco'
+KAIST_PATH = '/data/anime2/kaist'
+BDUNET_PATH = '/data/anime2/BDUnet_DIBCO_predictions/'

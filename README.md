@@ -1,6 +1,13 @@
 # Manga-Text-Segmentation
 Official repo of our paper [Unconstrained Text Detection in Manga: a NewDataset and Baseline](https://link.springer.com/chapter/10.1007%2F978-3-030-67070-2_38).
 
+## Example
+Input:
+![AisazuNihaIrarenai 009](images/AisazuNihaIrarenai-009.jpg)
+Output:
+![AisazuNihaIrarenai 009](images/AisazuNihaIrarenaipre-prediction-009.png)
+<sup>(source: [manga109](http://www.manga109.org/en/), © Yoshi Masako)</sup>
+
 ## Dataset
 Our label masks are available at [zenodo](https://zenodo.org/record/4511796). For the original Manga109 images, please refer to [Manga 109 website](http://www.manga109.org/en/).
 
@@ -9,6 +16,9 @@ The important notebooks that led to our best models are: **model** (resnet34 fro
 
 ## Try it out
 You can try out predicting by opening the [Predict notebook](/examples/Manga_Text_Segmentation_Predict.ipynb) in colab.
+
+## Additional Resources
+A further extensive detail of our research can be found in [Arxiv](https://arxiv.org/abs/2010.03997). This includes more examples and other things we tried before reaching the end result explained in our paper.
 
 ## Citation
 If you find this work or code is helpful in your research, please cite:
